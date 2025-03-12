@@ -1,0 +1,20 @@
+{
+  "name": "desafio-prueba-nanacaog74",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/TheGreySam/Desafio-Prueba-NanacaoG74#readme",
+  "bugs": {
+    "url": "https://github.com/TheGreySam/Desafio-Prueba-NanacaoG74/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGreySam/Desafio-Prueba-NanacaoG74.git"
+  },
+  "license": "ISC",
+  "author": "Sebastian Gomez Letelier",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
